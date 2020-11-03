@@ -1,5 +1,9 @@
 # bowling
 
+### Problem statement
+
+See [Question Statement](https://github.com/InterfloraDanmark/bowling-opgave).
+
 ## Project setup
 ```
 npm install
